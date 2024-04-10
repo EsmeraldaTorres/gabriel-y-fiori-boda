@@ -461,6 +461,7 @@ hr {
 .owl-carousel .owl-item img {
   display: block;
   width: max-content !important;
+  max-width: 200px;
 }
 .gallery {
   height: max-content;
