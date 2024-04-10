@@ -732,6 +732,7 @@ h3 {
   height: 25%;
 }
 .card-hotel {
+  width: 100%;
   background-color: white;
   padding-top: 3em;
   padding-bottom: 2em;
