@@ -460,7 +460,7 @@ hr {
 }
 .owl-carousel .owl-item img {
   display: block;
-  width: max-content;
+  width: max-content !important;
 }
 .gallery {
   height: max-content;
