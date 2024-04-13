@@ -1076,10 +1076,10 @@ a:hover {
       rgba(5, 7, 12, 0.212),
       rgba(5, 7, 12, 0.322)
     ),
-    url("./assets/img/unnamed\ \(4\).jpg");
+    url("./assets/img/unnamed\ \(9\).jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: left;
 }
 .marca {
   color: rgb(255 255 255 / 87%);
